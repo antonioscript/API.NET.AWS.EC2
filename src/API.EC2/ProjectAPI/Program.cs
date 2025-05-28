@@ -10,15 +10,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//PostGres
 var assemblyName = typeof(Program).Assembly.GetName().Name;
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<ProductDbContext>(c => c.UseNpgsql(connectionString, m => m.MigrationsAssembly(assemblyName)));
-
-
 var app = builder.Build();
 
-//PostGres
 using var scope = app.Services.CreateScope();
 var context = scope.ServiceProvider.GetRequiredService<ProductDbContext>();
 if (context.Database.GetPendingMigrations().Any())
