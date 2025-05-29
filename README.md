@@ -50,7 +50,22 @@ https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-aspnetcore-
 ![image](https://github.com/user-attachments/assets/a471b8eb-10bc-4d0e-94f1-12e398a0a850)
 
 
+**Paste Terminal**
 
+![image](https://github.com/user-attachments/assets/4b92a13a-5631-49dd-b6bf-137ee8333af4)
+
+**Go to page of SDK and copy command**
+
+https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-8.0.410-linux-arm64-binaries
+
+![image](https://github.com/user-attachments/assets/5bdc36c5-3c82-4ab1-8e03-c9eb0ed43be0)
+
+**Paste Terminal**
+
+![image](https://github.com/user-attachments/assets/e492e6a5-4977-4609-bcf6-cea680de2baf)
+
+
+### Create Application on Linux
 
 
 
