@@ -34,6 +34,25 @@ Go to directory at file '.perm1' and execute terminal
 
 ## Uploading .NET Application to EC2 Instance
 
+### Go to Page Download .NET 8
+https://dotnet.microsoft.com/pt-br/download/dotnet/8.0
+
+**Click on Runtime .NET 8 for Linux**
+
+https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-aspnetcore-8.0.16-linux-x64-binaries
+
+![image](https://github.com/user-attachments/assets/622a2422-494d-4ca2-97a3-9b8c3a7b6284)
+
+
+**Click on Runtime .NET 8 for Linux**
+
+**Copy Link**
+![image](https://github.com/user-attachments/assets/a471b8eb-10bc-4d0e-94f1-12e398a0a850)
+
+
+
+
+
 
 ## References
 https://www.rahulpnath.com/blog/amazon-ec2-dotnet-api-hosting/
