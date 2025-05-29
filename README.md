@@ -71,3 +71,5 @@ https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-8.0.410-linux-a
 
 ## References
 https://www.rahulpnath.com/blog/amazon-ec2-dotnet-api-hosting/
+
+https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/patterns/run-an-asp-net-core-web-api-docker-container-on-an-amazon-ec2-linux-instance.html
